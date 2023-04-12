@@ -1,2 +1,2 @@
 # rblxploit
-official repository
+official repository for all our collected roblox scripts
